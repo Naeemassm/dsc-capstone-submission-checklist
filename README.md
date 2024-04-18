@@ -9,8 +9,8 @@ Fork [the repo for this checklist](https://github.com/learn-co-curriculum/dsc-ca
 ## Business Understanding
 
 - [ ] Clearly explains the real-world problem your project attempts to solve in...
-  - [ ] Readme
-  - [ ] Notebook
+  - [x] Readme
+  - [x] Notebook
   - [ ] Slides
 
 ## Data Understanding
